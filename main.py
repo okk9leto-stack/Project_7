@@ -1,5 +1,5 @@
-def foo_develop():
-    pass
+def foo_task():
+    ...
 
 def func_develop():
     pass
